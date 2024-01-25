@@ -15,18 +15,18 @@ components:
   DF player.
 
 additional module used:
-  DFplayer.py from https://github.com/enjoyneering/DFPlayer \n
-  umail.py from https://github.com/shawwwn/uMail \n
-  mymodule1.py \n
-  BaatCheet.txt
-  rtc.py
-  rtcset.py
+  DFplayer.py from https://github.com/enjoyneering/DFPlayer ,
+  umail.py from https://github.com/shawwwn/uMail ,
+  mymodule1.py ,
+  BaatCheet.txt ,
+  rtc.py ,
+  rtcset.py ,
 
 software used:
-  Thonny
+  Thonny.
 
 SMTP server:-
-  Mailgun   https://www.mailgun.com/
+  Mailgun   https://www.mailgun.com/ .
 
 DFplayer.py:-
   It is coustamised according to the requrement.
