@@ -2,17 +2,17 @@
 Announcement project
 
 AIM:
-  A programmable speaker for use by aged, handicapped, blind and people with mobility difficulties. The programmable speaker comes with a companion ApthaMitra mobile app
+  A programmable speaker for use by aged, handicapped, blind and people with mobility difficulties. The programmable speaker comes with a companion ApthaMitra mobile app.
 
 components:
-  ESP32 DOIT kit v1
-  SD card 8 GB
-  RTC 3231
-  4056 charging module
-  speaker
-  battery with holder
-  rechargeble battery
-  DF player
+  ESP32 DOIT kit v1,
+  SD card 8 GB.
+  RTC 3231.
+  4056 charging module.
+  speaker.
+  battery with holder.
+  rechargeble battery.
+  DF player.
 
 additional module used:
   DFplayer.py from https://github.com/enjoyneering/DFPlayer
