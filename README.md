@@ -5,6 +5,7 @@ AIM:
   A programmable speaker for use by aged, handicapped, blind and people with mobility difficulties. The programmable speaker comes with a companion ApthaMitra mobile app.
 
 components:
+
   ESP32 DOIT kit v1,
   SD card 8 GB,
   RTC 3231,
