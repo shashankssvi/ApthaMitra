@@ -62,10 +62,10 @@ Additional module used:
 >In this version we added the alaram ones at a time.
 
 
-#version 1.2 :-
+# version 1.2 :-
 >In this version we added the email sending from the device at the perticular time.the body message is taken from the file.
 
 
-logos:-
+>logos:-
 >logoes created using canva.
 >1.png and 2.png
