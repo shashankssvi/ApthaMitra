@@ -14,7 +14,7 @@ battery with holder
 rechargeble battery
 DF player
 
-module used:
+additional module used:
 DFplayer.py  by https://github.com/enjoyneering/DFPlayer
 umail.py     by https://github.com/shawwwn/uMail 
 mymodule1.py
