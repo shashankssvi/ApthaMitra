@@ -25,40 +25,40 @@ Additional module used:
 1.  rtc.py
 1.  rtcset.py
 
-Language used :- 
+>Language used :- 
 >Micropython
 
-software used:
+>software used:
 >Thonny
 
-SMTP server:-
+>SMTP server:-
 >Mailgun   https://www.mailgun.com/ 
 
 
 
-DFplayer.py:-
+>DFplayer.py:-
 >It is coustamised according to the requrement.
 
 
-mymodule1.py:-
+>mymodule1.py:-
 >It is personally created for read the file in the ESP32 device to send in email.
 
 
-rtcset.py:-
+>rtcset.py:-
 >To set the RTC time to memory.
 
 
-rtc.py:-
+>rtc.py:-
 >for checking the rtc time.
 
 
 
-#version 1.0 :-
+# version 1.0 :-
 >In this version we develop the project which can announce at the perticular time.
 
 
 
-#version 1.1 :-
+# version 1.1 :-
 >In this version we added the alaram ones at a time.
 
 
