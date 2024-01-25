@@ -18,21 +18,21 @@ Announcement project
 
 ## Additional module used:
 
-1.  DFplayer.py from https://github.com/enjoyneering/DFPlayer
-1.  umail.py from https://github.com/shawwwn/uMail
+1.  dfplayer.py which is taken from [DFPlayer](https://github.com/enjoyneering/DFPlayer)
+1.  umail.py which is taken from [umail](https://github.com/shawwwn/uMail)
 1.  mymodule1.py
 1.  BaatCheet.txt
 1.  rtc.py
 1.  rtcset.py
 
 ### Language used :- 
->Micropython
+>In this project we using [Micropython](https://micropython.org/) language
 
 ### software used:
->Thonny
+>In this project we using [Thonny](https://thonny.org/) IDE to code in ESP32
 
 ### SMTP server:-
->Mailgun   https://www.mailgun.com/ 
+>In this project we using [Mailgun](https://www.mailgun.com/) as SMTP email sender.
 
 
 
