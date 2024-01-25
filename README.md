@@ -45,7 +45,7 @@ Additional module used:
 
 
 >rtcset.py:-
->To set the RTC time to memory.
+To set the RTC time to memory.
 
 
 >rtc.py:-
