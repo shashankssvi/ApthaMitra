@@ -67,5 +67,4 @@ To set the RTC time to memory.
 
 
 ## logos:-
->logoes created using canva.
->1.png and 2.png
+>logoes created using [canva](https://www.canva.com/).
