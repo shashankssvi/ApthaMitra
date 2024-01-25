@@ -66,6 +66,6 @@ To set the RTC time to memory.
 >In this version we added the email sending from the device at the perticular time.the body message is taken from the file.
 
 
->logos:-
+##logos:-
 >logoes created using canva.
 >1.png and 2.png
