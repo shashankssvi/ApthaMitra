@@ -15,10 +15,15 @@ rechargeble battery
 DF player
 
 additional module used:
-DFplayer.py  by https://github.com/enjoyneering/DFPlayer
-umail.py     by https://github.com/shawwwn/uMail 
+DFplayer.py from https://github.com/enjoyneering/DFPlayer
+umail.py from https://github.com/shawwwn/uMail 
 mymodule1.py
 BaatCheet.txt
+rtc.py
+rtcset.py
+
+software used:
+Thonny
 
 SMTP server:-Mailgun   https://www.mailgun.com/
 
@@ -27,6 +32,12 @@ DFplayer.py:-
   
 mymodule1.py:-
   It is personally created for read the file in the ESP32 device to send in email.
+
+rtcset.py:-
+  To set the RTC time to memory.
+  
+rtc.py:-
+  for checking the rtc time.
 
 version 1.0
 In this version we develop the project which can announce at the perticular time.
