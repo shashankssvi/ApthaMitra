@@ -6,18 +6,18 @@ AIM:
 
 components:
   ESP32 DOIT kit v1,
-  SD card 8 GB.
-  RTC 3231.
-  4056 charging module.
-  speaker.
-  battery with holder.
-  rechargeble battery.
+  SD card 8 GB,
+  RTC 3231,
+  4056 charging module,
+  speaker,
+  battery with holder,
+  rechargeble battery,
   DF player.
 
 additional module used:
-  DFplayer.py from https://github.com/enjoyneering/DFPlayer
-  umail.py from https://github.com/shawwwn/uMail 
-  mymodule1.py
+  DFplayer.py from https://github.com/enjoyneering/DFPlayer \n
+  umail.py from https://github.com/shawwwn/uMail \n
+  mymodule1.py \n
   BaatCheet.txt
   rtc.py
   rtcset.py
