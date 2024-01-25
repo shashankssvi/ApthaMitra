@@ -20,7 +20,9 @@ additional module used:
   mymodule1.py ,
   BaatCheet.txt ,
   rtc.py ,
-  rtcset.py ,
+  rtcset.py .
+
+Language used :- Micropython.
 
 software used:
   Thonny.
