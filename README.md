@@ -1,11 +1,11 @@
 # Aptha-Mitra
 Announcement project
 
-AIM:
+## AIM:
   A programmable speaker for use by aged, handicapped, blind and people with mobility difficulties. The programmable speaker comes with a companion ApthaMitra mobile app.
 
 
-components:
+## components:
 
  1. ESP32 DOIT kit v1
  1. SD card 8 GB
@@ -16,7 +16,7 @@ components:
  1. rechargeble battery
  1. DF player
 
-Additional module used:
+## Additional module used:
 
 1.  DFplayer.py from https://github.com/enjoyneering/DFPlayer
 1.  umail.py from https://github.com/shawwwn/uMail
@@ -25,30 +25,30 @@ Additional module used:
 1.  rtc.py
 1.  rtcset.py
 
->Language used :- 
+### Language used :- 
 >Micropython
 
->software used:
+### software used:
 >Thonny
 
->SMTP server:-
+### SMTP server:-
 >Mailgun   https://www.mailgun.com/ 
 
 
 
->DFplayer.py:-
+### DFplayer.py:-
 >It is coustamised according to the requrement.
 
 
->mymodule1.py:-
+### mymodule1.py:-
 >It is personally created for read the file in the ESP32 device to send in email.
 
 
->rtcset.py:-
+ ### rtcset.py:-
 To set the RTC time to memory.
 
 
->rtc.py:-
+### rtc.py:-
 >for checking the rtc time.
 
 
