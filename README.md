@@ -6,14 +6,15 @@ Announcement project
 
 ## components:
 
- 1. ESP32 DOIT kit v1
- 1. SD card 8 GB
- 1. RTC 3231
- 1. 4056 charging module
- 1. speaker
- 1. battery with holder
- 1. rechargeble battery
- 1. DF player
+ 1. ESP32 DOIT kit v1 - 550
+ 1. SD card 8 GB 
+ 1. RTC 3231 - 300+50
+ 1. 4056 charging module - 90
+ 1. speaker - 50
+ 1. battery with holder - 30
+ 1. rechargeble battery - 150
+ 1. DF player - 92
+Total = 1,312
 
 ## Additional module used:
 
