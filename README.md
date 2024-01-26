@@ -14,7 +14,7 @@ Announcement project
  1. battery with holder - 30
  1. rechargeble battery - 150
  1. DF player - 92
-Total = 1,312
+### Total = 1,312
 
 ## Additional module used:
 
