@@ -2,8 +2,7 @@
 Announcement project
 
 ## AIM:
-  A programmable speaker for use by aged, handicapped, blind and people with mobility difficulties. The programmable speaker comes with a companion ApthaMitra mobile app.
-
+>A programmable speaker for use by aged, handicapped, blind and people with mobility difficulties. The programmable speaker comes with a companion ApthaMitra mobile app.
 
 ## components:
 
@@ -68,3 +67,6 @@ To set the RTC time to memory.
 
 ## logos:-
 >logos created using [canva](https://www.canva.com/).
+
+### damages:-
+>while working with this project, one ESP32 and one DFplayer mini modules is damaged.
