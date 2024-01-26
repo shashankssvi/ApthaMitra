@@ -1,4 +1,4 @@
-# Aptha-Mitra
+# ApthaMitra
 Announcement project
 
 ## AIM:
